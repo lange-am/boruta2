@@ -1,4 +1,4 @@
-# boruta2
+# Boruta2
 Boruta2 All-Relevant Feature Selection method (Boruta improved)
 
 This is a version of Boruta algorithm, which improves the initial Boruta proposed by Miron B. Kursa in 
